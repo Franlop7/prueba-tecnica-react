@@ -1,4 +1,4 @@
-# Prueba técnica para Trainees y Juniors de React
+# Prueba técnica para Trainees y Juniors. React
 
 APIs:
 
