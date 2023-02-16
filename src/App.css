@@ -1,0 +1,22 @@
+/* estilos en columnas */
+main {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* estilos en fila */
+section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 3rem;
+}
+
+section img {
+    max-width: 320px;
+    height: auto;
+}
